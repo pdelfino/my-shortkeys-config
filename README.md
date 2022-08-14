@@ -48,6 +48,33 @@ One of them is called Shortkeys config. I try having an Emacs UX in Brave, so th
     "sites": "",
     "sitesArray": [
       ""
+    ],
+    "key": "ctrl+g",
+    "label": "C-g",
+    "action": "searchgoogle"
+  },
+  {
+    "action": "nexttab",
+    "key": "ctrl+]",
+    "label": "C-]",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+[",
+    "label": "C-[",
+    "action": "prevtab",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "sites": "",
+    "sitesArray": [
+      ""
     ]
   }
 ]
