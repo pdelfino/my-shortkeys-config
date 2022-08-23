@@ -9,27 +9,9 @@ One of them is called Shortkeys config. I try having an Emacs UX in Brave, so th
 ```json
 [
   {
-    "action": "scrolldown",
-    "label": "C-n",
-    "key": "ctrl+n",
-    "sites": "",
-    "sitesArray": [
-      ""
-    ]
-  },
-  {
     "key": "ctrl+p",
     "label": "C-p",
     "action": "scrollup",
-    "sites": "",
-    "sitesArray": [
-      ""
-    ]
-  },
-  {
-    "action": "top",
-    "key": "alt+shift+,",
-    "label": "M-<",
     "sites": "",
     "sitesArray": [
       ""
@@ -43,15 +25,6 @@ One of them is called Shortkeys config. I try having an Emacs UX in Brave, so th
     "sitesArray": [
       ""
     ]
-  },
-  {
-    "sites": "",
-    "sitesArray": [
-      ""
-    ],
-    "key": "ctrl+g",
-    "label": "C-g",
-    "action": "searchgoogle"
   },
   {
     "action": "nexttab",
@@ -72,28 +45,9 @@ One of them is called Shortkeys config. I try having an Emacs UX in Brave, so th
     ]
   },
   {
-    "sites": "",
-    "sitesArray": [
-      ""
-    ],
-    "key": "ctrl+x k",
-    "label": "C-x k",
-    "action": "closetab"
-  },
-  {
-    "activeInInputs": false,
-    "action": "gototab",
-    "key": "ctrl+shift+p",
-    "label": "C-S p",
-    "sites": "",
-    "sitesArray": [
-      ""
-    ]
-  },
-  {
-    "key": "ctrl+l",
-    "label": "C-x C-f",
-    "action": "gototabbytitle",
+    "key": "alt+shift+,",
+    "label": "M-<",
+    "action": "top",
     "sites": "",
     "sitesArray": [
       ""
