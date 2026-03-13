@@ -1,6 +1,6 @@
 # my-shortkeys-config
 
-![Young Hare](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/960px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg)
+![Young Hare](./painting.jpg)
 
 *"Young Hare" (1502) by Albrecht Durer -- [Wikipedia](https://en.wikipedia.org/wiki/Young_Hare)*
 
@@ -51,6 +51,10 @@ Shortkeys is a browser extension that lets you define custom keyboard shortcuts 
 1. Install the [Shortkeys extension](https://www.shortkeys.app/) in Brave or Chrome
 2. Open the extension settings
 3. Import the JSON config above (or copy it into the custom shortcuts editor)
+
+## Status
+
+This config is no longer actively maintained. My current focus is on [karabiner-config](https://github.com/pdelfino/karabiner-config) for system-wide keybindings and [unmouse](https://github.com/pdelfino/unmouse), my own Brave/Chrome extension for keyboard-driven text selection.
 
 ## Why So Few Shortcuts?
 
