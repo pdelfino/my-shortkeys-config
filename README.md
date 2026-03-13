@@ -1,6 +1,6 @@
 # my-shortkeys-config
 
-![Young Hare](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/700px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg)
+![Young Hare](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/960px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg)
 
 *"Young Hare" (1502) by Albrecht Durer -- [Wikipedia](https://en.wikipedia.org/wiki/Young_Hare)*
 
